@@ -1,6 +1,6 @@
 {
   "name": "claude-quick-answer",
-  "owner": { "name": "Dorazee0209" },
+  "owner": { "name": "Dorazeeing" },
   "description": "quick-answer: Claude's single-choice questions above the prompt, answered with one digit",
   "plugins": [{ "name": "quick-answer", "source": "./" }]
 }

@@ -2,7 +2,7 @@
   "name": "quick-answer",
   "version": "0.1.0",
   "description": "Claude asks a single-choice question above the prompt, survey style: one digit answers, no Enter",
-  "author": { "name": "Dorazee0209" },
+  "author": { "name": "Dorazeeing" },
   "license": "MIT",
   "types": "./types/index.d.ts"
 }
